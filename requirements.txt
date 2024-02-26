@@ -1,0 +1,4 @@
+prettytable
+DefiLlama
+sqlite3
+AWS
