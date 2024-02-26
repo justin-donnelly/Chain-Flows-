@@ -1,8 +1,6 @@
 import os
 import requests
 import json 
-from dotenv import load_dotenv
-load_dotenv()
 import pandas as pd
 from pandas.tseries.offsets import DateOffset
 from pandas import json_normalize
